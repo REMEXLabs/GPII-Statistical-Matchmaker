@@ -2,20 +2,19 @@
     "typeName": "statisticalMatchMaker.development",
     "options": {
         "gradeNames": ["autoInit", "fluid.littleComponent"],
-        "distributeOptions": {
-            "source": "{that}.options.matchMakerGrades",
-            "target": "{that matchMaker}.options.gradeNames"
-        },
         "components": {
             "server": {
+                "type": "kettle.server",
                 "options": {
-                    "port": 8077
+                    "logging": true,
+                    "port": 8077,
+					"components": {
+						"statisticalMatchmaker": {
+							"type": "gpii.statisticalMatchmaker"
+						}
+					}
                 }
             }
-        },
-        "matchMakerGrades": ["gpii.matchMaker.statistical"]
-    },
-    "includes": [
-        "../node_modules/universal/gpii/node_modules/matchMaker/configs/development.json"
-    ]
+        }
+    }
 }

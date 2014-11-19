@@ -25,5 +25,6 @@ fluid.require("../lib/StatisticalMatchMaker.js", require);
 kettle.config.makeConfigLoader({
     nodeEnv: kettle.config.getNodeEnv(),
     configPath: kettle.config.getConfigPath() ||
-        require("path").resolve(__dirname, "../configs")
+        require("path").resolve(__dirname, "../configs"),
+	configName: "development"
 });
