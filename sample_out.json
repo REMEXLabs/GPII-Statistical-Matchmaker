@@ -1,0 +1,39 @@
+{
+  "inferredConfiguration": {
+    "gpii-default": {
+      "com.microsoft.windows.magnifier": {
+        "settings": {
+          "Magnification": 400,
+          "MagnificationMode": 1,
+          "FollowFocus": 1,
+          "FollowCaret": 1,
+          "FollowMouse": 1
+        },
+        "active": true
+      }
+    },
+    "nighttime-at-home": {
+      "com.microsoft.windows.magnifier": {
+        "settings": {
+          "Magnification": 600,
+          "MagnificationMode": 1,
+          "FollowFocus": 1,
+          "FollowCaret": 1,
+          "FollowMouse": 1
+        },
+        "active": true
+      },
+      "conditions": [
+        {
+          "type": "http://gpii.net/common/operators/inRange",
+          "max": 1800,
+          "min": 600,
+          "inputPath": "http://registry.gpii.net/conditions/timeOfDay"
+        }
+      ]
+    }
+  },
+  "status": {
+    "type": "success"
+  }
+}
