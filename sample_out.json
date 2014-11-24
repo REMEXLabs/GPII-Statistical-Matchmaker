@@ -2,7 +2,7 @@
   "inferredConfiguration": {
     "gpii-default": {
       "com.microsoft.windows.magnifier": {
-        "settings": {
+        "preferences": {
           "Magnification": 400,
           "MagnificationMode": 1,
           "FollowFocus": 1,
@@ -14,7 +14,7 @@
     },
     "nighttime-at-home": {
       "com.microsoft.windows.magnifier": {
-        "settings": {
+        "preferences": {
           "Magnification": 600,
           "MagnificationMode": 1,
           "FollowFocus": 1,
