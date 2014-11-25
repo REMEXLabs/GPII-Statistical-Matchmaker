@@ -12,7 +12,6 @@
 
       "nighttime-at-home": {
         "name": "Nighttime at home",
-
         "preferences": {
           "http://registry.gpii.org/applications/org.gnome.desktop.a11y.magnifier": {
             "mag-factor": 6.0
@@ -26,7 +25,16 @@
             "inputPath": "http://registry.gpii.net/conditions/timeOfDay"
           }
         ]
+      },
+
+      "manual-custom": {
+        "preferences": {
+          "http://registry.gpii.org/applications/org.gnome.desktop.a11y.magnifier": {
+            "invert-lightness": true
+          }
+        }
       }
+	  
     }
   },
   "activeContexts": [
