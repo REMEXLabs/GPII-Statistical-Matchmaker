@@ -1,27 +1,29 @@
 {
   "inferredConfiguration": {
     "gpii-default": {
-      "com.microsoft.windows.magnifier": {
-        "preferences": {
-          "Magnification": 400,
-          "MagnificationMode": 1,
-          "FollowFocus": 1,
-          "FollowCaret": 1,
-          "FollowMouse": 1
-        },
-        "active": true
+      "applications": {
+        "com.microsoft.windows.magnifier": {
+          "settings": {
+            "Magnification": 110,
+            "MagnificationMode": 2,
+            "Invert": true
+          },
+          "active": true
+        }
       }
     },
     "nighttime-at-home": {
-      "com.microsoft.windows.magnifier": {
-        "preferences": {
-          "Magnification": 600,
-          "MagnificationMode": 1,
-          "FollowFocus": 1,
-          "FollowCaret": 1,
-          "FollowMouse": 1
-        },
-        "active": true
+      "applications": {
+        "com.microsoft.windows.magnifier": {
+          "settings": {
+            "Magnification": 600,
+            "MagnificationMode": 1,
+            "FollowFocus": 1,
+            "FollowCaret": 1,
+            "FollowMouse": 1
+          },
+          "active": true
+        }
       },
       "conditions": [
         {
@@ -31,6 +33,18 @@
           "inputPath": "http://registry.gpii.net/conditions/timeOfDay"
         }
       ]
+    },
+    "manual-custom": {
+      "applications": {
+        "com.microsoft.windows.magnifier": {
+          "settings": {
+            "Magnification": 100,
+            "MagnificationMode": 2,
+            "Invert": true
+          },
+          "active": true
+        }
+      }
     }
   },
   "status": {
