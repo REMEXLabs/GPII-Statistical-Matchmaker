@@ -4,7 +4,7 @@
       "applications": {
         "com.microsoft.windows.magnifier": {
           "settings": {
-            "http://registry.gpii.org/applications/com.microsoft.windows.magnifier": {
+            "http://registry.gpii.net/applications/com.microsoft.windows.magnifier": {
               "Magnification": 110,
               "MagnificationMode": 2,
               "Invert": true
@@ -18,7 +18,7 @@
       "applications": {
         "com.microsoft.windows.magnifier": {
           "settings": {
-            "http://registry.gpii.org/applications/com.microsoft.windows.magnifier": {
+            "http://registry.gpii.net/applications/com.microsoft.windows.magnifier": {
               "Magnification": 600,
               "MagnificationMode": 1,
               "FollowFocus": 1,
@@ -42,7 +42,7 @@
       "applications": {
         "com.microsoft.windows.magnifier": {
           "settings": {
-            "http://registry.gpii.org/applications/com.microsoft.windows.magnifier": {
+            "http://registry.gpii.net/applications/com.microsoft.windows.magnifier": {
               "Magnification": 100,
               "MagnificationMode": 2,
               "Invert": true
