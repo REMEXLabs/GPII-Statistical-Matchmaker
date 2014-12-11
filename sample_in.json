@@ -4,7 +4,7 @@
       "gpii-default": {
         "name": "Default preferences",
         "preferences": {
-          "http://registry.gpii.org/applications/org.gnome.desktop.a11y.magnifier": {
+          "http://registry.gpii.net/applications/org.gnome.desktop.a11y.magnifier": {
             "mag-factor": 3.7
           }
         }
@@ -13,7 +13,7 @@
       "nighttime-at-home": {
         "name": "Nighttime at home",
         "preferences": {
-          "http://registry.gpii.org/applications/org.gnome.desktop.a11y.magnifier": {
+          "http://registry.gpii.net/applications/org.gnome.desktop.a11y.magnifier": {
             "mag-factor": 6.0
           }
         },
@@ -29,7 +29,7 @@
 
       "manual-custom": {
         "preferences": {
-          "http://registry.gpii.org/applications/org.gnome.desktop.a11y.magnifier": {
+          "http://registry.gpii.net/applications/org.gnome.desktop.a11y.magnifier": {
             "invert-lightness": true
           }
         }
