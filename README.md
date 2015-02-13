@@ -1,6 +1,6 @@
 ### Dependencies
 
-[universal](https://github.com/GPII/universal)
+* [GPII's real-time framework ("universal")](https://github.com/GPII/universal).
 
 Installation instructions
 
@@ -23,7 +23,8 @@ Usage example using [curl](http://curl.haxx.se/):
 	curl -H "Content-Type: application/json" --data @sample_in.json http://127.0.0.1:8077/match
 
 
-### Funding Acknowledgement
+## Funding Acknowledgement
 
 The research leading to these results has received funding from the European
-Union's Seventh Framework Programme (FP7/2007-2013) under grant agreement No.289016.
+Union's Seventh Framework Programme (FP7/2007-2013) under grant agreement No.289016
+([Cloud4all](http://www.cloud4all.info/)).
