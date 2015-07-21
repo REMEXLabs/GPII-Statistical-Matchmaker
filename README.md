@@ -10,7 +10,7 @@ First, get the code by running the following command in a terminal window:
 
     git clone https://github.com/REMEXLabs/GPII-Statistical-Matchmaker.git
 
-Then run the following command:
+Then change to the newly created directory (`cd GPII-Statistical-Matchmaker`) and run the following command:
 
     npm install
 	
