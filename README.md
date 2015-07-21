@@ -6,9 +6,9 @@ Installation instructions
 
     npm install
 	
-Depending on your system, you might have to remove node_modules\universal\node_modules\kettle\node_modules\infusion
+Depending on your system, you might have to remove `node_modules\universal\node_modules\kettle\node_modules\infusion`.
 	
-Depending on your system, you might have to move node_modules\universal\node_modules\infusion to node_modules\infusion
+Depending on your system, you might have to move `node_modules\universal\node_modules\infusion` to `node_modules\infusion`.
 	
 ### Running the Statistical Matchmaker
 
