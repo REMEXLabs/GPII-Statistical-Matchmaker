@@ -8,7 +8,7 @@
 
 First, get the code by running the following command in a terminal window:
 
-    https://github.com/REMEXLabs/GPII-Statistical-Matchmaker.git
+    git clone https://github.com/REMEXLabs/GPII-Statistical-Matchmaker.git
 
 Then run the following command:
 
