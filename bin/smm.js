@@ -3,13 +3,13 @@
 /*!
 GPII/Cloud4all Statistical Matchmaker 
 
-Copyright 2014 Hochschule der Medien (HdM) / Stuttgart Media University
+Copyright 2012-2015 Hochschule der Medien (HdM) / Stuttgart Media University
 
 Licensed under the New BSD License. You may not use this file except in
 compliance with this licence.
 
 You may obtain a copy of the licence at
-https://github.com/AndreasStiegler/GPII_StatisticalMatchmaker2/blob/master/LICENSE.txt
+https://github.com/REMEXLabs/GPII-Statistical-Matchmaker/blob/master/LICENSE.txt
 
 
 The research leading to these results has received funding from 
