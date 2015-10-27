@@ -34,6 +34,10 @@ Usage example using [curl](http://curl.haxx.se/):
 	curl -H "Content-Type: application/json" --data @sample_in.json http://127.0.0.1:8077/match
 
 
+## Licence
+
+The code of the GPII/Cloud4all Statistical Matchmaker's runtime component is available under the [BSD 3-Clause License](https://github.com/REMEXLabs/GPII-Statistical-Matchmaker/blob/master/LICENSE.txt).
+
 ## Funding Acknowledgement
 
 The research leading to these results has received funding from the European
