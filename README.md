@@ -1,6 +1,6 @@
 # GPII Statistical Matchmaker: Runtime Component
 
-**Important notice, September 2020**: This repository was last updated in December 2015, while its main dependency, the GPII's real-time framework, has evolved considerably since that time. Since compatibility, with that framework cannot be guaranteed, this repository will be archived.
+**Important notice, September 2020**: This repository was last updated in December 2015, while its main dependency, the GPII's real-time framework, has evolved considerably since that time. Since compatibility with that framework cannot be guaranteed, this repository will be archived.
 
 ## Dependencies
 
